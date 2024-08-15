@@ -14,15 +14,11 @@ It features a variety of groundbreaking technologies that can be easily adapted 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![аи](https://github.com/user-attachments/assets/13b359d8-5369-468c-a770-093e38e8108d)
-
+https://aigigabyte.org/tech-dashboard.jpg
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-[![DOWNLOAD](https://aigigabyte.org/=compact&theme=dark)](https://aigigabyte.org/)
 
 
-[![DOWNLOAD](DOWNLOAD&layout=compact&theme=dark)](https://aigigabyte.org/)
-
-
-[epub](https://aigigabyte.org/)
+[DOWNLOAD](https://aigigabyte.org/)
