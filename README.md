@@ -20,3 +20,6 @@ It features a variety of groundbreaking technologies that can be easily adapted 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![DOWNLOAD] (https://aigigabyte.org/=compact&theme=dark)](https://aigigabyte.org/)
+
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
