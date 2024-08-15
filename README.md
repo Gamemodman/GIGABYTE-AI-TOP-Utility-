@@ -23,3 +23,6 @@ It features a variety of groundbreaking technologies that can be easily adapted 
 
 
 [![DOWNLOAD](DOWNLOAD&layout=compact&theme=dark)](https://aigigabyte.org/)
+
+
+[epub](https://aigigabyte.org/)
