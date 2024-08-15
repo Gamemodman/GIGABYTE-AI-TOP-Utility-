@@ -5,14 +5,16 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=GIGABYTE+AI+TOP+Utility)](https://git.io/typing-svg)
-                                GIGABYTE AI TOP
+
+
+GIGABYTE AI TOP
 Train your own AI on your desk
 
 In the age of local AI, GIGABYTE AI TOP is the all-round solution to win advantages ahead of traditional AI training methods. 
 It features a variety of groundbreaking technologies that can be easily adapted by beginners or experts, for most common open-source LLMs, in anyplace even on your desk.
 
 
-                               AI TOP Utility
+AI TOP Utility
 Reinventing AI Training
 
 The AI TOP Utility is a groundbreaking realization of local AI model training with reinvented workflows, user-friendly interface and experience, and real-time progress monitoring. It supports various top-ranking open-source AI models for beginners to easily start up own AI project without any skills of AI programming.
