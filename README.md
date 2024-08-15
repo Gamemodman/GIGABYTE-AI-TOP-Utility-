@@ -14,7 +14,7 @@ It features a variety of groundbreaking technologies that can be easily adapted 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![аи](https://github.com/user-attachments/assets/13b359d8-5369-468c-a770-093e38e8108d)
-https://aigigabyte.org/tech-dashboard.jpg
+![tech-dashboard](https://github.com/user-attachments/assets/d6641466-ae69-4162-99c6-34a54e5606fa)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
