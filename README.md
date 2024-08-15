@@ -23,9 +23,9 @@ Supported Windows 10 / 11
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-![maxresdefault](https://github.com/user-attachments/assets/20452b68-1794-4995-bf16-df5e0560ffba)
+![https://aigigabyte.org/](https://github.com/user-attachments/assets/20452b68-1794-4995-bf16-df5e0560ffba)
 
-![tech-dashboard](https://github.com/user-attachments/assets/d6641466-ae69-4162-99c6-34a54e5606fa)
+![https://aigigabyte.org/](https://github.com/user-attachments/assets/d6641466-ae69-4162-99c6-34a54e5606fa)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
